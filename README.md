@@ -23,4 +23,4 @@ A pilot version will be deployed in an urban setting such as Medellin, Colombia 
 ## Resources
 
 The following funding sources will be investigated:
-![Funding Sources](https://github.com/bmonian/Zika/Funding.jpg)
+![Funding Sources](https://github.com/bmonian/Zika/blob/master/Funding.JPG)
