@@ -28,17 +28,7 @@ Data analysis methods will be used to correlate patient demographic and symptom 
 
 
 ## Team Members
-Brinda Monian
-![Brinda](https://github.com/bmonian/Zika/blob/master/images/Brinda.JPG)
-
-Owen Hsu
-![Owen](https://github.com/bmonian/Zika/blob/master/images/Owen.JPG)
-
-Ahmed Nabil Shaaban
-![Nabil](https://github.com/bmonian/Zika/blob/master/images/Nabil.jpg)
-
-Dareng Gyang
-![Dareng](https://github.com/bmonian/Zika/blob/master/images/Dareng.png)
+![Team Members](https://github.com/bmonian/Zika/blob/master/images/Team.JPG)
 
 ## Resources
 The following funding sources will be investigated:
