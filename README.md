@@ -4,6 +4,8 @@
 
 The number of reported cases of Zika and associated complications is on the rise, yet poor field data remains a barrier to accurate diagnosis and surveillance.
 
+![Background](https://github.com/bmonian/Zika/blob/master/images/Background.JPG)
+
 Unmet needs that a Zika surveillance app could address:
 * Understanding of high-risk and low-risk geographical areas and patient demographics
 * Understanding of patient symptoms that correlate with good/poor clinical endpoints
