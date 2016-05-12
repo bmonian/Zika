@@ -13,7 +13,7 @@ Unmet needs that a Zika surveillance app could address:
 
 ## Methods (App Development and Implementation)
 
-Initial development will include interviews with end-users (clinicians, health workers) to determine what form-factor would be most useful to them in order to maximize compliance. The app will then be developed and tested using the tools described below:
+Initial development will include interviews with end-users (clinicians and health workers) to determine what form-factor would be most useful to them in order to maximize compliance. The app will then be developed and tested using the tools described below:
 ![Tools](https://github.com/bmonian/Zika/blob/master/images/Tools.JPG)
 
 The interface will be a form that can be filled out by the end-user by laptop or smartphone:
@@ -22,7 +22,10 @@ The interface will be a form that can be filled out by the end-user by laptop or
 A pilot version will be deployed in an urban setting such as Medellin, Colombia, to determine the effectiveness of the app in reliable data collection.
 
 ## Results (Data Analysis and Intended Outcomes)
-As pilot data is collected, it will be uploaded to a database. Data analysis methods will be used to correlate patient demographic and symptom info with clinical endpoints, if available. The data will also be used to track the number of cases by region, which could lead to a risk map such as the following to help inform the public and devote more resources to high-risk regions:
+As pilot data is collected, it will be uploaded to a database. Data will be stored in a table such as the following:
+![Data Table](https://github.com/bmonian/Zika/blob/master/images/DataAnalysis.JPG)
+
+Data analysis methods will be used to correlate patient demographic and symptom info with clinical endpoints, if available. The data will also be used to track the number of cases by region, which could lead to a risk map such as the following to help inform the public and devote more resources to high-risk regions:
 ![RiskMap](https://github.com/bmonian/Zika/blob/master/images/RiskMap.JPG)
 
 
